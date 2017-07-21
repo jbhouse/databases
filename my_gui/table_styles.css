@@ -1,0 +1,25 @@
+table{
+  border-style: none;
+}
+
+th{
+  border-bottom: medium solid black;
+}
+
+tr{
+  border-style: none;
+}
+
+td{
+  border-left: medium solid black;
+  background-color: #F0EAD6;
+  padding: 5px;
+}
+
+td:hover{
+  background-color: #A9A9A9;
+}
+
+#empty_column{
+  background-color: #C11C17;
+}
